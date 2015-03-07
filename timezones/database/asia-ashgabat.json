@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Ashgabat",
+    "X-LIC-LOCATION": "Asia/Ashgabat",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0500",
+        "TZOFFSETTO": "+0500",
+        "TZNAME": "TMT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Ashgabat"
+}

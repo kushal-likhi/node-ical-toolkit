@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Dawson_Creek",
+    "X-LIC-LOCATION": "America/Dawson_Creek",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0700",
+        "TZOFFSETTO": "-0700",
+        "TZNAME": "MST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Dawson_Creek"
+}

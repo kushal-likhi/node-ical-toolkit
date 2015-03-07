@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Indian/Reunion",
+    "X-LIC-LOCATION": "Indian/Reunion",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0400",
+        "TZOFFSETTO": "+0400",
+        "TZNAME": "RET",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Indian/Reunion"
+}

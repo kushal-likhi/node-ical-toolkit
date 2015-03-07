@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Krasnoyarsk",
+    "X-LIC-LOCATION": "Asia/Krasnoyarsk",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0700",
+        "TZOFFSETTO": "+0700",
+        "TZNAME": "KRAT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Krasnoyarsk"
+}

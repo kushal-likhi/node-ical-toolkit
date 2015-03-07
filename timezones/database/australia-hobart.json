@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Australia/Hobart",
+    "X-LIC-LOCATION": "Australia/Hobart",
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "+1000",
+        "TZOFFSETTO": "+1100",
+        "TZNAME": "AEDT",
+        "DTSTART": "19701004T020000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=10;BYDAY=1SU"
+      }
+    ],
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1100",
+        "TZOFFSETTO": "+1000",
+        "TZNAME": "AEST",
+        "DTSTART": "19700405T030000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=4;BYDAY=1SU"
+      }
+    ]
+  },
+  "TZID": "Australia/Hobart"
+}

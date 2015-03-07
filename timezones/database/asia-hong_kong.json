@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Hong_Kong",
+    "X-LIC-LOCATION": "Asia/Hong_Kong",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0800",
+        "TZOFFSETTO": "+0800",
+        "TZNAME": "HKT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Hong_Kong"
+}

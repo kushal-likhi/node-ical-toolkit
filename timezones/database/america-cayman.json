@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Cayman",
+    "X-LIC-LOCATION": "America/Cayman",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0500",
+        "TZOFFSETTO": "-0500",
+        "TZNAME": "EST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Cayman"
+}

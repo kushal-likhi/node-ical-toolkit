@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Atikokan",
+    "X-LIC-LOCATION": "America/Atikokan",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0500",
+        "TZOFFSETTO": "-0500",
+        "TZNAME": "EST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Atikokan"
+}

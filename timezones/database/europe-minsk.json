@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Europe/Minsk",
+    "X-LIC-LOCATION": "Europe/Minsk",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0300",
+        "TZNAME": "FET",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Europe/Minsk"
+}

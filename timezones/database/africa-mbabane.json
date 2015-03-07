@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Africa/Mbabane",
+    "X-LIC-LOCATION": "Africa/Mbabane",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0200",
+        "TZOFFSETTO": "+0200",
+        "TZNAME": "SAST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Africa/Mbabane"
+}

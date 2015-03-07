@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Belize",
+    "X-LIC-LOCATION": "America/Belize",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0600",
+        "TZOFFSETTO": "-0600",
+        "TZNAME": "CST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Belize"
+}

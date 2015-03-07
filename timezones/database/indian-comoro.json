@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Indian/Comoro",
+    "X-LIC-LOCATION": "Indian/Comoro",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0300",
+        "TZNAME": "EAT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Indian/Comoro"
+}

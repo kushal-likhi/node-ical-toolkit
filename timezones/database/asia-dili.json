@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Dili",
+    "X-LIC-LOCATION": "Asia/Dili",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0900",
+        "TZOFFSETTO": "+0900",
+        "TZNAME": "TLT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Dili"
+}

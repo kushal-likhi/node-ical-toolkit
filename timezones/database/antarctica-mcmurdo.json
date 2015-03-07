@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Antarctica/McMurdo",
+    "X-LIC-LOCATION": "Antarctica/McMurdo",
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "+1200",
+        "TZOFFSETTO": "+1300",
+        "TZNAME": "NZDT",
+        "DTSTART": "19700927T020000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU"
+      }
+    ],
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1300",
+        "TZOFFSETTO": "+1200",
+        "TZNAME": "NZST",
+        "DTSTART": "19700405T030000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=4;BYDAY=1SU"
+      }
+    ]
+  },
+  "TZID": "Antarctica/McMurdo"
+}

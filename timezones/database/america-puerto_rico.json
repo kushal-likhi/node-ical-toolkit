@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Puerto_Rico",
+    "X-LIC-LOCATION": "America/Puerto_Rico",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0400",
+        "TZOFFSETTO": "-0400",
+        "TZNAME": "AST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Puerto_Rico"
+}

@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Ust-Nera",
+    "X-LIC-LOCATION": "Asia/Ust-Nera",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1000",
+        "TZOFFSETTO": "+1000",
+        "TZNAME": "VLAT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Ust-Nera"
+}

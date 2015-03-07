@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Fakaofo",
+    "X-LIC-LOCATION": "Pacific/Fakaofo",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1300",
+        "TZOFFSETTO": "+1300",
+        "TZNAME": "TKT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Fakaofo"
+}

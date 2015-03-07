@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Argentina/Tucuman",
+    "X-LIC-LOCATION": "America/Argentina/Tucuman",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0300",
+        "TZOFFSETTO": "-0300",
+        "TZNAME": "ART",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Argentina/Tucuman"
+}

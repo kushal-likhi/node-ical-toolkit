@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Nauru",
+    "X-LIC-LOCATION": "Pacific/Nauru",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1200",
+        "TZOFFSETTO": "+1200",
+        "TZNAME": "NRT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Nauru"
+}

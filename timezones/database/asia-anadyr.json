@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Anadyr",
+    "X-LIC-LOCATION": "Asia/Anadyr",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1200",
+        "TZOFFSETTO": "+1200",
+        "TZNAME": "ANAT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Anadyr"
+}

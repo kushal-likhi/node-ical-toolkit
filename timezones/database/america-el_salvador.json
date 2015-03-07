@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/El_Salvador",
+    "X-LIC-LOCATION": "America/El_Salvador",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0600",
+        "TZOFFSETTO": "-0600",
+        "TZNAME": "CST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/El_Salvador"
+}

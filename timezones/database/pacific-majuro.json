@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Majuro",
+    "X-LIC-LOCATION": "Pacific/Majuro",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1200",
+        "TZOFFSETTO": "+1200",
+        "TZNAME": "MHT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Majuro"
+}

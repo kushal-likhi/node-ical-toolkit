@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Africa/Mogadishu",
+    "X-LIC-LOCATION": "Africa/Mogadishu",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0300",
+        "TZNAME": "EAT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Africa/Mogadishu"
+}

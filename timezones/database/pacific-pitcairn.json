@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Pitcairn",
+    "X-LIC-LOCATION": "Pacific/Pitcairn",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0800",
+        "TZOFFSETTO": "-0800",
+        "TZNAME": "PST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Pitcairn"
+}

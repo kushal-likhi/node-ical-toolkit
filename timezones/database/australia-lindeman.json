@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Australia/Lindeman",
+    "X-LIC-LOCATION": "Australia/Lindeman",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1000",
+        "TZOFFSETTO": "+1000",
+        "TZNAME": "AEST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Australia/Lindeman"
+}

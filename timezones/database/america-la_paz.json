@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/La_Paz",
+    "X-LIC-LOCATION": "America/La_Paz",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0400",
+        "TZOFFSETTO": "-0400",
+        "TZNAME": "BOT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/La_Paz"
+}

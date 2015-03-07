@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Atlantic/Reykjavik",
+    "X-LIC-LOCATION": "Atlantic/Reykjavik",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0000",
+        "TZOFFSETTO": "+0000",
+        "TZNAME": "GMT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Atlantic/Reykjavik"
+}

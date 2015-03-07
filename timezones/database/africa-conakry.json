@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Africa/Conakry",
+    "X-LIC-LOCATION": "Africa/Conakry",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0000",
+        "TZOFFSETTO": "+0000",
+        "TZNAME": "GMT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Africa/Conakry"
+}

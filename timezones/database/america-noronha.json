@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Noronha",
+    "X-LIC-LOCATION": "America/Noronha",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0200",
+        "TZOFFSETTO": "-0200",
+        "TZNAME": "FNT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Noronha"
+}

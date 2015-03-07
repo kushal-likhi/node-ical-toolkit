@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Yerevan",
+    "X-LIC-LOCATION": "Asia/Yerevan",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0400",
+        "TZOFFSETTO": "+0400",
+        "TZNAME": "AMT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Yerevan"
+}

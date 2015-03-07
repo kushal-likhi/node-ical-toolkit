@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Danmarkshavn",
+    "X-LIC-LOCATION": "America/Danmarkshavn",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0000",
+        "TZOFFSETTO": "+0000",
+        "TZNAME": "GMT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Danmarkshavn"
+}

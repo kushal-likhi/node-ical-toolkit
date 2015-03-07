@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Easter",
+    "X-LIC-LOCATION": "Pacific/Easter",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0500",
+        "TZOFFSETTO": "-0600",
+        "TZNAME": "EAST",
+        "DTSTART": "19700425T220000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=4;BYDAY=4SA"
+      }
+    ],
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "-0600",
+        "TZOFFSETTO": "-0500",
+        "TZNAME": "EASST",
+        "DTSTART": "19700905T220000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=9;BYDAY=1SA"
+      }
+    ]
+  },
+  "TZID": "Pacific/Easter"
+}

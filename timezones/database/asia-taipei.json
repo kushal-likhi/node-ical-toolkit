@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Taipei",
+    "X-LIC-LOCATION": "Asia/Taipei",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0800",
+        "TZOFFSETTO": "+0800",
+        "TZNAME": "CST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Taipei"
+}

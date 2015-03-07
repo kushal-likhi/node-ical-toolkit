@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Havana",
+    "X-LIC-LOCATION": "America/Havana",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0400",
+        "TZOFFSETTO": "-0500",
+        "TZNAME": "CST",
+        "DTSTART": "19701101T010000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=11;BYDAY=1SU"
+      }
+    ],
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "-0500",
+        "TZOFFSETTO": "-0400",
+        "TZNAME": "CDT",
+        "DTSTART": "19700308T000000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=3;BYDAY=2SU"
+      }
+    ]
+  },
+  "TZID": "America/Havana"
+}

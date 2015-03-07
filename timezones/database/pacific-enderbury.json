@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Enderbury",
+    "X-LIC-LOCATION": "Pacific/Enderbury",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1300",
+        "TZOFFSETTO": "+1300",
+        "TZNAME": "PHOT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Enderbury"
+}

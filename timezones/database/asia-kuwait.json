@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Kuwait",
+    "X-LIC-LOCATION": "Asia/Kuwait",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0300",
+        "TZNAME": "AST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Kuwait"
+}

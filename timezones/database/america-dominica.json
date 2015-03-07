@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Dominica",
+    "X-LIC-LOCATION": "America/Dominica",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0400",
+        "TZOFFSETTO": "-0400",
+        "TZNAME": "AST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Dominica"
+}

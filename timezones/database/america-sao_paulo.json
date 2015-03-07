@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Sao_Paulo",
+    "X-LIC-LOCATION": "America/Sao_Paulo",
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "-0300",
+        "TZOFFSETTO": "-0200",
+        "TZNAME": "BRST",
+        "DTSTART": "19701018T000000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=10;BYDAY=3SU"
+      }
+    ],
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0300",
+        "TZOFFSETTO": "-0300",
+        "TZNAME": "BRT",
+        "DTSTART": "19700215T000000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=2;BYDAY=3SU"
+      }
+    ]
+  },
+  "TZID": "America/Sao_Paulo"
+}

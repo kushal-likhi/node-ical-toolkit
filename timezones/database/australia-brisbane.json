@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Australia/Brisbane",
+    "X-LIC-LOCATION": "Australia/Brisbane",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1000",
+        "TZOFFSETTO": "+1000",
+        "TZNAME": "AEST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Australia/Brisbane"
+}

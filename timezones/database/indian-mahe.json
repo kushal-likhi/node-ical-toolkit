@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Indian/Mahe",
+    "X-LIC-LOCATION": "Indian/Mahe",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0400",
+        "TZOFFSETTO": "+0400",
+        "TZNAME": "SCT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Indian/Mahe"
+}

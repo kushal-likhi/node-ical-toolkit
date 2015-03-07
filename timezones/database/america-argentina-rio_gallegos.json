@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Argentina/Rio_Gallegos",
+    "X-LIC-LOCATION": "America/Argentina/Rio_Gallegos",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0300",
+        "TZOFFSETTO": "-0300",
+        "TZNAME": "ART",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Argentina/Rio_Gallegos"
+}

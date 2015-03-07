@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Truk",
+    "X-LIC-LOCATION": "Pacific/Truk",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1000",
+        "TZOFFSETTO": "+1000",
+        "TZNAME": "TRUT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Truk"
+}

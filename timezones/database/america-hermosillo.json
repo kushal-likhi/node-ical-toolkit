@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Hermosillo",
+    "X-LIC-LOCATION": "America/Hermosillo",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0700",
+        "TZOFFSETTO": "-0700",
+        "TZNAME": "MST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Hermosillo"
+}

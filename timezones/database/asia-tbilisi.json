@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Tbilisi",
+    "X-LIC-LOCATION": "Asia/Tbilisi",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0400",
+        "TZOFFSETTO": "+0400",
+        "TZNAME": "GET",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Tbilisi"
+}

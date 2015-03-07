@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Australia/Darwin",
+    "X-LIC-LOCATION": "Australia/Darwin",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0930",
+        "TZOFFSETTO": "+0930",
+        "TZNAME": "ACST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Australia/Darwin"
+}

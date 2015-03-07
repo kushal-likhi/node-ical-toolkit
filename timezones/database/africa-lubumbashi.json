@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Africa/Lubumbashi",
+    "X-LIC-LOCATION": "Africa/Lubumbashi",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0200",
+        "TZOFFSETTO": "+0200",
+        "TZNAME": "CAT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Africa/Lubumbashi"
+}

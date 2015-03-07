@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Tarawa",
+    "X-LIC-LOCATION": "Pacific/Tarawa",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1200",
+        "TZOFFSETTO": "+1200",
+        "TZNAME": "GILT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Tarawa"
+}

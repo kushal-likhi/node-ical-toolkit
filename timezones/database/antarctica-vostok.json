@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Antarctica/Vostok",
+    "X-LIC-LOCATION": "Antarctica/Vostok",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0600",
+        "TZOFFSETTO": "+0600",
+        "TZNAME": "VOST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Antarctica/Vostok"
+}

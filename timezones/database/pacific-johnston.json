@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Johnston",
+    "X-LIC-LOCATION": "Pacific/Johnston",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-1000",
+        "TZOFFSETTO": "-1000",
+        "TZNAME": "HST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Johnston"
+}

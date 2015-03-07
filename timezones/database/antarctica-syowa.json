@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Antarctica/Syowa",
+    "X-LIC-LOCATION": "Antarctica/Syowa",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0300",
+        "TZNAME": "SYOT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Antarctica/Syowa"
+}

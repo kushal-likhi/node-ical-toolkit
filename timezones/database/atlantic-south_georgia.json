@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Atlantic/South_Georgia",
+    "X-LIC-LOCATION": "Atlantic/South_Georgia",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0200",
+        "TZOFFSETTO": "-0200",
+        "TZNAME": "GST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Atlantic/South_Georgia"
+}

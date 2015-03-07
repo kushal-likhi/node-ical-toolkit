@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Dhaka",
+    "X-LIC-LOCATION": "Asia/Dhaka",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0600",
+        "TZOFFSETTO": "+0600",
+        "TZNAME": "BDT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Dhaka"
+}

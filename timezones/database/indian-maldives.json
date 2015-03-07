@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Indian/Maldives",
+    "X-LIC-LOCATION": "Indian/Maldives",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0500",
+        "TZOFFSETTO": "+0500",
+        "TZNAME": "MVT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Indian/Maldives"
+}

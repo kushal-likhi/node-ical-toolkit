@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Antarctica/Casey",
+    "X-LIC-LOCATION": "Antarctica/Casey",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0800",
+        "TZOFFSETTO": "+0800",
+        "TZNAME": "AWST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Antarctica/Casey"
+}

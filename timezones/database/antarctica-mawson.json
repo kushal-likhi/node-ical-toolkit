@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Antarctica/Mawson",
+    "X-LIC-LOCATION": "Antarctica/Mawson",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0500",
+        "TZOFFSETTO": "+0500",
+        "TZNAME": "MAWT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Antarctica/Mawson"
+}

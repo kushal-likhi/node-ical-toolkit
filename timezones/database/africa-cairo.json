@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Africa/Cairo",
+    "X-LIC-LOCATION": "Africa/Cairo",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0200",
+        "TZNAME": "EET",
+        "DTSTART": "19700924T235959",
+        "RRULE": "FREQ=YEARLY;BYMONTH=9;BYDAY=-1TH"
+      }
+    ],
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0300",
+        "TZNAME": "EEST",
+        "DTSTART": "19700424T010000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=4;BYDAY=-1FR"
+      }
+    ]
+  },
+  "TZID": "Africa/Cairo"
+}

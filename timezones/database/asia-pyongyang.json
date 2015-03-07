@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Pyongyang",
+    "X-LIC-LOCATION": "Asia/Pyongyang",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0900",
+        "TZOFFSETTO": "+0900",
+        "TZNAME": "KST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Pyongyang"
+}

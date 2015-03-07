@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Tijuana",
+    "X-LIC-LOCATION": "America/Tijuana",
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "-0800",
+        "TZOFFSETTO": "-0700",
+        "TZNAME": "PDT",
+        "DTSTART": "19700308T020000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=3;BYDAY=2SU"
+      }
+    ],
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0700",
+        "TZOFFSETTO": "-0800",
+        "TZNAME": "PST",
+        "DTSTART": "19701101T020000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=11;BYDAY=1SU"
+      }
+    ]
+  },
+  "TZID": "America/Tijuana"
+}

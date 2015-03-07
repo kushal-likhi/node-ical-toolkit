@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Anguilla",
+    "X-LIC-LOCATION": "America/Anguilla",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0400",
+        "TZOFFSETTO": "-0400",
+        "TZNAME": "AST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Anguilla"
+}

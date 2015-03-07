@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Africa/Dar_es_Salaam",
+    "X-LIC-LOCATION": "Africa/Dar_es_Salaam",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0300",
+        "TZNAME": "EAT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Africa/Dar_es_Salaam"
+}

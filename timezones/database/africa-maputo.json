@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Africa/Maputo",
+    "X-LIC-LOCATION": "Africa/Maputo",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0200",
+        "TZOFFSETTO": "+0200",
+        "TZNAME": "CAT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Africa/Maputo"
+}

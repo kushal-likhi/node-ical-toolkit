@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Europe/Volgograd",
+    "X-LIC-LOCATION": "Europe/Volgograd",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0300",
+        "TZNAME": "MSK",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Europe/Volgograd"
+}

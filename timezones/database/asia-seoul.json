@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Seoul",
+    "X-LIC-LOCATION": "Asia/Seoul",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0900",
+        "TZOFFSETTO": "+0900",
+        "TZNAME": "KST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Seoul"
+}

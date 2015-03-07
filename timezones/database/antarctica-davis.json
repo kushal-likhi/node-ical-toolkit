@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Antarctica/Davis",
+    "X-LIC-LOCATION": "Antarctica/Davis",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0700",
+        "TZOFFSETTO": "+0700",
+        "TZNAME": "DAVT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Antarctica/Davis"
+}

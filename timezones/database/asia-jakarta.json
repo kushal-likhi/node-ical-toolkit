@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Jakarta",
+    "X-LIC-LOCATION": "Asia/Jakarta",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0700",
+        "TZOFFSETTO": "+0700",
+        "TZNAME": "WIB",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Jakarta"
+}

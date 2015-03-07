@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Palau",
+    "X-LIC-LOCATION": "Pacific/Palau",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0900",
+        "TZOFFSETTO": "+0900",
+        "TZNAME": "PWT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Palau"
+}

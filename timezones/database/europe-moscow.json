@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Europe/Moscow",
+    "X-LIC-LOCATION": "Europe/Moscow",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0300",
+        "TZNAME": "MSK",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Europe/Moscow"
+}

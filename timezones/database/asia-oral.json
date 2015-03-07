@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Oral",
+    "X-LIC-LOCATION": "Asia/Oral",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0500",
+        "TZOFFSETTO": "+0500",
+        "TZNAME": "ORAT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Oral"
+}

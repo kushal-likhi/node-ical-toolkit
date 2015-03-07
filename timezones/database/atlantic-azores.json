@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Atlantic/Azores",
+    "X-LIC-LOCATION": "Atlantic/Azores",
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "-0100",
+        "TZOFFSETTO": "+0000",
+        "TZNAME": "AZOST",
+        "DTSTART": "19700329T000000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU"
+      }
+    ],
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0000",
+        "TZOFFSETTO": "-0100",
+        "TZNAME": "AZOT",
+        "DTSTART": "19701025T010000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU"
+      }
+    ]
+  },
+  "TZID": "Atlantic/Azores"
+}

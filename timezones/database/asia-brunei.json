@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Brunei",
+    "X-LIC-LOCATION": "Asia/Brunei",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0800",
+        "TZOFFSETTO": "+0800",
+        "TZNAME": "BNT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Brunei"
+}

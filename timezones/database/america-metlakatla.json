@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Metlakatla",
+    "X-LIC-LOCATION": "America/Metlakatla",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0800",
+        "TZOFFSETTO": "-0800",
+        "TZNAME": "PST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Metlakatla"
+}

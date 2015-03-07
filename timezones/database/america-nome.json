@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Nome",
+    "X-LIC-LOCATION": "America/Nome",
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "-0900",
+        "TZOFFSETTO": "-0800",
+        "TZNAME": "AKDT",
+        "DTSTART": "19700308T020000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=3;BYDAY=2SU"
+      }
+    ],
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0800",
+        "TZOFFSETTO": "-0900",
+        "TZNAME": "AKST",
+        "DTSTART": "19701101T020000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=11;BYDAY=1SU"
+      }
+    ]
+  },
+  "TZID": "America/Nome"
+}

@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Australia/Eucla",
+    "X-LIC-LOCATION": "Australia/Eucla",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0845",
+        "TZOFFSETTO": "+0845",
+        "TZNAME": "ACWST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Australia/Eucla"
+}

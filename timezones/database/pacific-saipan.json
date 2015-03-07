@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Saipan",
+    "X-LIC-LOCATION": "Pacific/Saipan",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1000",
+        "TZOFFSETTO": "+1000",
+        "TZNAME": "ChST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Saipan"
+}

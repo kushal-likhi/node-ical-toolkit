@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Boa_Vista",
+    "X-LIC-LOCATION": "America/Boa_Vista",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0400",
+        "TZOFFSETTO": "-0400",
+        "TZNAME": "AMT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Boa_Vista"
+}

@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Recife",
+    "X-LIC-LOCATION": "America/Recife",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0300",
+        "TZOFFSETTO": "-0300",
+        "TZNAME": "BRT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Recife"
+}

@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Antarctica/Macquarie",
+    "X-LIC-LOCATION": "Antarctica/Macquarie",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1100",
+        "TZOFFSETTO": "+1100",
+        "TZNAME": "MIST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Antarctica/Macquarie"
+}

@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Novosibirsk",
+    "X-LIC-LOCATION": "Asia/Novosibirsk",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0600",
+        "TZOFFSETTO": "+0600",
+        "TZNAME": "NOVT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Novosibirsk"
+}

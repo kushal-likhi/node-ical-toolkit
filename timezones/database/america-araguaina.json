@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Araguaina",
+    "X-LIC-LOCATION": "America/Araguaina",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0300",
+        "TZOFFSETTO": "-0300",
+        "TZNAME": "BRT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Araguaina"
+}

@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Calcutta",
+    "X-LIC-LOCATION": "Asia/Calcutta",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0530",
+        "TZOFFSETTO": "+0530",
+        "TZNAME": "IST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Calcutta"
+}

@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Galapagos",
+    "X-LIC-LOCATION": "Pacific/Galapagos",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0600",
+        "TZOFFSETTO": "-0600",
+        "TZNAME": "GALT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Galapagos"
+}

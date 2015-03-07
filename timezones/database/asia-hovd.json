@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Hovd",
+    "X-LIC-LOCATION": "Asia/Hovd",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0700",
+        "TZOFFSETTO": "+0700",
+        "TZNAME": "HOVT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Hovd"
+}

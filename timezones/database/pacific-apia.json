@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Apia",
+    "X-LIC-LOCATION": "Pacific/Apia",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1400",
+        "TZOFFSETTO": "+1300",
+        "TZNAME": "WSST",
+        "DTSTART": "19700405T040000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=4;BYDAY=1SU"
+      }
+    ],
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "+1300",
+        "TZOFFSETTO": "+1400",
+        "TZNAME": "WSDT",
+        "DTSTART": "19700927T030000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU"
+      }
+    ]
+  },
+  "TZID": "Pacific/Apia"
+}

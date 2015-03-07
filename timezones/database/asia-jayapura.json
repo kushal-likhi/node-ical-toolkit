@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Jayapura",
+    "X-LIC-LOCATION": "Asia/Jayapura",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0900",
+        "TZOFFSETTO": "+0900",
+        "TZNAME": "WIT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Jayapura"
+}

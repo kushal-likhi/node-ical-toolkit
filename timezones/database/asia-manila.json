@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Manila",
+    "X-LIC-LOCATION": "Asia/Manila",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0800",
+        "TZOFFSETTO": "+0800",
+        "TZNAME": "PHT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Manila"
+}

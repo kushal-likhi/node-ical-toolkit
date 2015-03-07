@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Europe/Kaliningrad",
+    "X-LIC-LOCATION": "Europe/Kaliningrad",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0200",
+        "TZOFFSETTO": "+0200",
+        "TZNAME": "EET",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Europe/Kaliningrad"
+}

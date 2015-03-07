@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Karachi",
+    "X-LIC-LOCATION": "Asia/Karachi",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0500",
+        "TZOFFSETTO": "+0500",
+        "TZNAME": "PKT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Karachi"
+}

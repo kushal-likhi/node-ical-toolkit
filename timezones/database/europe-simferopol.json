@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Europe/Simferopol",
+    "X-LIC-LOCATION": "Europe/Simferopol",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0300",
+        "TZOFFSETTO": "+0300",
+        "TZNAME": "MSK",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Europe/Simferopol"
+}

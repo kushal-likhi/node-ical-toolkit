@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Novokuznetsk",
+    "X-LIC-LOCATION": "Asia/Novokuznetsk",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0700",
+        "TZOFFSETTO": "+0700",
+        "TZNAME": "KRAT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Novokuznetsk"
+}

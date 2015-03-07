@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Atlantic/Cape_Verde",
+    "X-LIC-LOCATION": "Atlantic/Cape_Verde",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0100",
+        "TZOFFSETTO": "-0100",
+        "TZNAME": "CVT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Atlantic/Cape_Verde"
+}

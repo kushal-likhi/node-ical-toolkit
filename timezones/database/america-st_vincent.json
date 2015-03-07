@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/St_Vincent",
+    "X-LIC-LOCATION": "America/St_Vincent",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0400",
+        "TZOFFSETTO": "-0400",
+        "TZNAME": "AST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/St_Vincent"
+}

@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Kiritimati",
+    "X-LIC-LOCATION": "Pacific/Kiritimati",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1400",
+        "TZOFFSETTO": "+1400",
+        "TZNAME": "LINT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Kiritimati"
+}

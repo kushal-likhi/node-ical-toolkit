@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Rio_Branco",
+    "X-LIC-LOCATION": "America/Rio_Branco",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0500",
+        "TZOFFSETTO": "-0500",
+        "TZNAME": "ACT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "America/Rio_Branco"
+}

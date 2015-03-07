@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Marquesas",
+    "X-LIC-LOCATION": "Pacific/Marquesas",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0930",
+        "TZOFFSETTO": "-0930",
+        "TZNAME": "MART",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Marquesas"
+}

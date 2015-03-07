@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Tahiti",
+    "X-LIC-LOCATION": "Pacific/Tahiti",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-1000",
+        "TZOFFSETTO": "-1000",
+        "TZNAME": "TAHT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Tahiti"
+}

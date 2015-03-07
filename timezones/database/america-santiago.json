@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Santiago",
+    "X-LIC-LOCATION": "America/Santiago",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0300",
+        "TZOFFSETTO": "-0400",
+        "TZNAME": "CLT",
+        "DTSTART": "19700426T000000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=4;BYDAY=-1SU"
+      }
+    ],
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "-0400",
+        "TZOFFSETTO": "-0300",
+        "TZNAME": "CLST",
+        "DTSTART": "19700906T000000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=9;BYDAY=1SU"
+      }
+    ]
+  },
+  "TZID": "America/Santiago"
+}

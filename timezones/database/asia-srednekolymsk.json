@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Asia/Srednekolymsk",
+    "X-LIC-LOCATION": "Asia/Srednekolymsk",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1100",
+        "TZOFFSETTO": "+1100",
+        "TZNAME": "SRET",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Asia/Srednekolymsk"
+}

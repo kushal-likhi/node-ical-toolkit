@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Tongatapu",
+    "X-LIC-LOCATION": "Pacific/Tongatapu",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1300",
+        "TZOFFSETTO": "+1300",
+        "TZNAME": "TOT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Tongatapu"
+}

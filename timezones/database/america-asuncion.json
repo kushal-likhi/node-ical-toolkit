@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "America/Asuncion",
+    "X-LIC-LOCATION": "America/Asuncion",
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "-0400",
+        "TZOFFSETTO": "-0300",
+        "TZNAME": "PYST",
+        "DTSTART": "19701004T000000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=10;BYDAY=1SU"
+      }
+    ],
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0300",
+        "TZOFFSETTO": "-0400",
+        "TZNAME": "PYT",
+        "DTSTART": "19700322T000000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=3;BYDAY=4SU"
+      }
+    ]
+  },
+  "TZID": "America/Asuncion"
+}

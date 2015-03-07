@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Fiji",
+    "X-LIC-LOCATION": "Pacific/Fiji",
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "+1200",
+        "TZOFFSETTO": "+1300",
+        "TZNAME": "FJST",
+        "DTSTART": "19701025T020000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=21,22,23,24,25,26,27;BYDAY=SU"
+      }
+    ],
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1300",
+        "TZOFFSETTO": "+1200",
+        "TZNAME": "FJT",
+        "DTSTART": "19700118T020000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=1;BYMONTHDAY=18,19,20,21,22,23,24;BYDAY=SU"
+      }
+    ]
+  },
+  "TZID": "Pacific/Fiji"
+}

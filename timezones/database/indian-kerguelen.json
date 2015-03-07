@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Indian/Kerguelen",
+    "X-LIC-LOCATION": "Indian/Kerguelen",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+0500",
+        "TZOFFSETTO": "+0500",
+        "TZNAME": "TFT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Indian/Kerguelen"
+}

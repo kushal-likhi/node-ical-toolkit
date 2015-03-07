@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Pacific/Rarotonga",
+    "X-LIC-LOCATION": "Pacific/Rarotonga",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-1000",
+        "TZOFFSETTO": "-1000",
+        "TZNAME": "CKT",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Pacific/Rarotonga"
+}

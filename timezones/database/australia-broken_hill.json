@@ -1,0 +1,25 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Australia/Broken_Hill",
+    "X-LIC-LOCATION": "Australia/Broken_Hill",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "+1030",
+        "TZOFFSETTO": "+0930",
+        "TZNAME": "ACST",
+        "DTSTART": "19700405T030000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=4;BYDAY=1SU"
+      }
+    ],
+    "DAYLIGHT": [
+      {
+        "TZOFFSETFROM": "+0930",
+        "TZOFFSETTO": "+1030",
+        "TZNAME": "ACDT",
+        "DTSTART": "19701004T020000",
+        "RRULE": "FREQ=YEARLY;BYMONTH=10;BYDAY=1SU"
+      }
+    ]
+  },
+  "TZID": "Australia/Broken_Hill"
+}

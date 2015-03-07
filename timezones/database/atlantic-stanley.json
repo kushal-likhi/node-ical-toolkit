@@ -1,0 +1,15 @@
+{
+  "VTIMEZONE": {
+    "TZID": "Atlantic/Stanley",
+    "X-LIC-LOCATION": "Atlantic/Stanley",
+    "STANDARD": [
+      {
+        "TZOFFSETFROM": "-0300",
+        "TZOFFSETTO": "-0300",
+        "TZNAME": "FKST",
+        "DTSTART": "19700101T000000"
+      }
+    ]
+  },
+  "TZID": "Atlantic/Stanley"
+}

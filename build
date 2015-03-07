@@ -1,0 +1,5 @@
+#Build timezones db
+rm -rfv timezones/database
+mkdir timezones/database
+node ./timezones/_parse
+
