@@ -1,10 +1,10 @@
 {
-  "name": "node-ical-toolkit",
-  "version": "1.0.1",
+  "name": "ical-toolkit",
+  "version": "1.0.2",
   "description": "ICal generator/updater/parser with Timezone/DST, Alams, Organizers, Events, etc. support.",
   "main": "lib/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha tests"
   },
   "repository": {
     "type": "git",
