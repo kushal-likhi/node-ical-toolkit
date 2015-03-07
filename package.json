@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/kushal-likhi/node-ical-toolkit",
   "devDependencies": {
-    "fs-readdir-recursive": "^0.1.0"
+    "fs-readdir-recursive": "^0.1.0",
+    "mocha": "^2.2.0"
   },
   "dependencies": {
     "ical2json": "^0.2.0"
