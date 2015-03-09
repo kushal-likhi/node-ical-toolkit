@@ -1,6 +1,6 @@
 {
   "name": "ical-toolkit",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "ICal generator/updater/parser with Timezone/DST, Alams, Organizers, Events, etc. support.",
   "main": "lib/main.js",
   "scripts": {
