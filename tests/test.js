@@ -48,6 +48,18 @@ builder.events.push({
     name: 'Kushal Likhi',
     email: 'test@mail'
   },
+  attendees: [
+    {
+      name: 'A1', //Required
+      email: 'a1@email.com', //Required
+      status: 'TENTATIVE', //Optional
+      role: 'REQ-PARTICIPANT' //Optional
+    },
+    {
+      name: 'A2',
+      email: 'a2@email.com'
+    }
+  ],
   method: 'PUBLISH',
   status: 'CONFIRMED',
   url: 'http://google.com'
