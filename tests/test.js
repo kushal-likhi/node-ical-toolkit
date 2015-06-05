@@ -18,11 +18,15 @@ builder.calname = 'Yo Cal';
 builder.timezone = 'asia/kalcutta';
 builder.tzid = 'america/new_york';
 
+builder.method = 'REQUEST';
+
 builder.events.push({
   //Required: type Date()
   start: new Date(),
   //Required: type Date()
   end: new Date(),
+  //transp
+  transp: 'OPAQUE',
   //Required: type String
   summary: 'Test Event',
 
@@ -53,7 +57,8 @@ builder.events.push({
       name: 'A1', //Required
       email: 'a1@email.com', //Required
       status: 'TENTATIVE', //Optional
-      role: 'REQ-PARTICIPANT' //Optional
+      role: 'REQ-PARTICIPANT', //Optional
+      rsvp: true //Optional
     },
     {
       name: 'A2',

@@ -109,6 +109,9 @@ builder.timezone = 'america/new_york';
 //Time Zone ID. This will automatically add VTIMEZONE info.
 builder.tzid = 'america/new_york';
 
+//Method
+builder.method = 'REQUEST';
+
 //Add events
 builder.events.push({
 
@@ -117,6 +120,9 @@ builder.events.push({
   
   //Event end time, Required: type Date()
   end: new Date(),
+  
+  //transp. Will add TRANSP:OPAQUE to block calendar.
+  transp: 'OPAQUE',
   
   //Event summary, Required: type String
   summary: 'Test Event',
@@ -172,7 +178,8 @@ builder.events.push({
       name: 'A1', //Required
       email: 'a1@email.com', //Required
       status: 'TENTATIVE', //Optional
-      role: 'REQ-PARTICIPANT' //Optional
+      role: 'REQ-PARTICIPANT', //Optional
+      rsvp: true //Optional, adds 'RSVP=TRUE' , tells the application that organiser needs a RSVP response.
     },
     {
       name: 'A2',
