@@ -50,7 +50,8 @@ builder.events.push({
   description: 'Testing it!',
   organizer: {
     name: 'Kushal Likhi',
-    email: 'test@mail'
+    email: 'test@mail',
+    sentBy: 'hello@test.com'
   },
   attendees: [
     {
