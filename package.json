@@ -30,6 +30,6 @@
     "mocha": "^2.2.0"
   },
   "dependencies": {
-    "ical2json": "^0.2.0"
+    "ical2json": "^0.3.0"
   }
 }
