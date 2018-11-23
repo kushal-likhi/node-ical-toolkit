@@ -186,7 +186,7 @@ builder.events.push({
       name: 'A2',
       email: 'a2@email.com'
     }
-  ]
+  ],
   
   //What to do on addition
   method: 'PUBLISH',
